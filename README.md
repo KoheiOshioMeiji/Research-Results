@@ -1,5 +1,5 @@
 # Research-Results
-研究成果をまとめていきます(2024年11月9日現在). エンジニアになるため就活中です. 英語版は後々作成します.
+研究成果をまとめていきます(2024年12月9日現在). 内定もらいました. あと最終面接が4社残ってます. 英語版は後々作成します.
 
 **学歴**
 
@@ -44,6 +44,10 @@
 </p>
 
 **学会発表(全て単独/口頭発表)**
+
+[16] 大塩浩平　[スパーシャルAIと法：道路交通に関する法情報を帯びた空間におけるエージェントのシミュレーション](https://sites.google.com/hbesj.org/hbesj2024/programme) 日本人間行動進化学会 第17回大会 (於: 広島修道大学) 2024/12/07.
+
+[15] 大塩浩平 [Legal-Emotional BATNA：AIチャットボットを用いた離婚問題における意思決定支援の試み](http://www.jlea.jp/24_zenkokutaikai_end.html) 法と経済学会　2024年（第22回）全国大会 (於: 明治大学) 2024/11/30.
 
 [14] Kohei OSHIO [Chatbot Development for Legal Counseling Applying Design for Behavior Change and Research on Divorce Mediation Support](https://www.lawandsociety.org/wp-content/uploads/2024/06/2024-Program-Book-6th-version-6.4.pdf) Law and Society Association Annual Meeting（in Hyatt Regency Denver at Colorado Convention Center, Denver, Colorado) 2024/06/07.
 
