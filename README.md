@@ -23,6 +23,8 @@
 
 **著書・論文**
 
+[5] Kohei OSHIO(2024) [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://ebooks.iospress.nl/volume/legal-knowledge-and-information-systems-jurix-2024-the-thirty-seventh-annual-conference-brno-czech-republic-11-13-december-2024) JURIX 2024 proceedings: The Thirty-seventh Annual Conference, Brno, Czech Republic, 11-13 December 2024, pp.333-337.
+
 [4] ローレンス・レペタ著 太田勝造監訳 大塩浩平・堀口愛芽紗訳(2024) [『日本人の良心の囚人』の執筆について](https://www.shinzansha.co.jp/book/b10079972.html) 信山社．
 
 <p align="center">
