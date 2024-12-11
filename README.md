@@ -47,6 +47,8 @@
 
 **学会発表(全て単独/口頭発表)**
 
+[17] Kohei OSHIO [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://jurix2024.law.muni.cz/program) JURIX 2024, 37th International Conference on Legal Knowledge and Information Systems​ (in Faculty of Law, Masaryk University, Brno, Czech Republic)
+
 [16] 大塩浩平 [スパーシャルAIと法：道路交通に関する法情報を帯びた空間におけるエージェントのシミュレーション](https://sites.google.com/hbesj.org/hbesj2024/programme) 日本人間行動進化学会 第17回大会 (於: 広島修道大学) 2024/12/07.
 
 [15] 大塩浩平 [Legal-Emotional BATNA：AIチャットボットを用いた離婚問題における意思決定支援の試み](http://www.jlea.jp/24_zenkokutaikai_end.html) 法と経済学会　2024年（第22回）全国大会 (於: 明治大学) 2024/11/30.
