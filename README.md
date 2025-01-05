@@ -131,7 +131,7 @@
 
 [2]	2023/03～2024/02  [リーガル・マインド養成ゲームの制作手法と調査 ー合理的なルール・メイカーを目指すDX時代の新たな法教育の土台づくりに向けてー](https://www.fost.or.jp/images/pdf/subsidies/FOST-2022_hojo-kekka.pdf) 公益財団法人 [科学技術融合振興財団](pdfs/FOST-2022.pdf).
 
-[1]	2022/08～  [スパイキングニューラルネットワーク(SNN)を用いたODRにおける創造的な交渉支援研究](https://www.mhk.or.jp/dl-data/magazine_no38.pdf) 公益財団法人 民事紛争処理研究基金.
+[1]	2022/08～  [スパイキングニューラルネットワーク(SNN)を用いたODRにおける創造的な交渉支援研究](https://www.mhk.or.jp/dl-data/magazine_no38.pdf) 公益財団法人 [民事紛争処理研究基金](pdfs/minpun-2022.pdf).
 
 **受賞学術賞**
 
