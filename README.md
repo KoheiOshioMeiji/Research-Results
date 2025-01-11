@@ -83,11 +83,11 @@
 
 **ディスカッションペーパー(査読なし)**
 
-[法と経済学会2024](pdfs/JLEA_DP_2024_oshio.pdf)
+[3] [法と経済学会2024](pdfs/JLEA_DP_2024_oshio.pdf) 2024/11/30.
 
-[法と経済学会2023](pdfs/JLEA_DP_2023_oshio.pdf)
+[2] [法と経済学会2023](pdfs/JLEA_DP_2023_oshio.pdf) 2023/10/28.
 
-[法と経済学会2021](pdfs/JLEA_DP_2021_oshio.pdf)
+[1] [法と経済学会2021](pdfs/JLEA_DP_2021_oshio.pdf) 2021/11/13.
 
 **MISC**
 
