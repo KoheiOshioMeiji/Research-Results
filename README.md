@@ -17,7 +17,7 @@
 
 **経歴**
 
-[2] 2023年4月-現在 明治大学経営学部[助手](https://www.meiji.ac.jp/dai_in/assistant.html)(Research Associate): 公共経営学特別講義A/B, 基礎専門特別講義B, 経営学特別講義Dの授業補助担当. その他新入生関連業務, 懸賞論文査読, 試験監督業務(大学入学共通テスト, 全学部統一入学試験, 学部別入学試験)等.
+[2] 2023年4月-現在 明治大学経営学部[助手](https://www.meiji.ac.jp/dai_in/assistant.html)(Research Associate): 公共経営学特別講義A/B, 基礎専門特別講義B, [経営学特別講義D](https://blog.ssu.co.jp/blog/31504/?utm_source=ssug&utm_medium=email&utm_campaign=31504)の授業補助担当. その他新入生関連業務, 懸賞論文査読, 試験監督業務(大学入学共通テスト, 全学部統一入学試験, 学部別入学試験)等.
 
 [1] 2021年4月-2023年3月 明治大学法学部ティーチングアシスタント(TA): 法学部生の[学習サポート](https://www.meiji.ac.jp/hogaku/information/2022/mkmht0000002ksid.html)(憲法・刑法等法律基礎科目の説明業務補助, レポート作成・試験対策等), 授業補助業務, その他一般のサポート業務, 業務報告書の作成, 宣伝業務. ※コロナ期間中はzoomを用いたオンラインでの対応.
 
