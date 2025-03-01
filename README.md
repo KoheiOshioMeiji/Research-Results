@@ -23,7 +23,9 @@
 
 **著書・論文**
 
-[5] Kohei OSHIO(2024) [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://ebooks.iospress.nl/doi/10.3233/FAIA241264) proceedings of JURIX 2024: The Thirty-seventh Annual Conference, Brno, Czech Republic, 11-13 December 2024, pp.333-337. doi:10.3233/FAIA241264. 長文論文(Long papers)の採択率は23％(21件/90件), 全体(Long papers+Short papers(17件))では42％(38件/90件).
+[6] 大塩浩平(2025) [法律実務家との協働による対話促進型調停支援チャットボットの設計プロセス] 情報コミュニケーション学会第22回全国大会議事録. 発表番号3C-4. 116-119頁. 査読なし.
+
+[5] Kohei OSHIO(2024) [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://ebooks.iospress.nl/doi/10.3233/FAIA241264) proceedings of JURIX 2024: The Thirty-seventh Annual Conference, Brno, Czech Republic, 11-13 December 2024, pp.333-337. doi:10.3233/FAIA241264. 査読あり. 長文論文(Long papers)の採択率は23％(21件/90件), 全体(Long papers+Short papers(17件))では42％(38件/90件).
 
 [4] ローレンス・レペタ著 太田勝造監訳 大塩浩平・堀口愛芽紗訳(2024) [『日本人の良心の囚人』の執筆について](https://www.shinzansha.co.jp/book/b10079972.html) 信山社．
 
@@ -37,9 +39,9 @@
 <img src="images/book1.jpg" alt="Book1" width="300">
 </p>
 
-[2] 大塩浩平(2023) [古代東アジアにおける法制度継受現象の数理進化理論的考察 ー律令制の日本伝来に関してー](https://meiji.repo.nii.ac.jp/records/17408) 明治大学大学院法学研究論集(58) 151-172頁.
+[2] 大塩浩平(2023) [古代東アジアにおける法制度継受現象の数理進化理論的考察 ー律令制の日本伝来に関してー](https://meiji.repo.nii.ac.jp/records/17408) 明治大学大学院法学研究論集(58) 151-172頁.査読あり.
 
-[1] 大塩浩平(2022) [行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究](https://meiji.repo.nii.ac.jp/records/10780) 明治大学大学院法学研究論集(57) 79-101頁.
+[1] 大塩浩平(2022) [行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究](https://meiji.repo.nii.ac.jp/records/10780) 明治大学大学院法学研究論集(57) 79-101頁.査読あり.
 
 <p align="center">
 <img src="images/pic2.png" alt="Image2" width="350">
