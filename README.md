@@ -23,7 +23,9 @@
 
 **著書・論文**
 
-[6] 大塩浩平(2025) 法律実務家との協働による対話促進型調停支援チャットボットの設計プロセス 情報コミュニケーション学会第22回全国大会議事録. 発表番号3C-4. 2025年3月1日-2日. 116-119頁. 査読なし.
+[7] 大塩浩平(2025) 法律実務家との協働による対話促進型調停支援チャットボットの設計プロセス 情報コミュニケーション学会第22回全国大会議事録. 発表番号3C-4. 2025年3月1日-2日. 116-119頁. 査読なし.
+
+[6] 大塩浩平(2025) 生成AIは法的コミュニケーションを強化するか:調停離婚向けチャットボット開発に着目して 明治大学大学院情報コミュニケーション研究論集(24) 20-40頁. 査読あり.
 
 [5] Kohei OSHIO(2024) [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://ebooks.iospress.nl/doi/10.3233/FAIA241264) proceedings of JURIX 2024: The Thirty-seventh Annual Conference, Brno, Czech Republic, 11-13 December 2024, pp.333-337. doi:10.3233/FAIA241264. 査読あり. 長文論文(Long papers)の採択率は23％(21件/90件), 全体(Long papers+Short papers(17件))では42％(38件/90件).
 
