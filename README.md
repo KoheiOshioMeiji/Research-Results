@@ -113,6 +113,8 @@
 
 **メディア報道**
 
+[5] [コーエーテクモINFORMATION 第18回FOST賞授賞式　公益財団法人 科学技術融合振興財団](https://www.koeitecmo.co.jp/news/docs/news_20250313.pdf) 2025/03/12.
+
 [4] [ボードゲームの教育的な価値を戦略的に普及させてきた企業・すごろくやが社会貢献賞を受賞。「第18回FOST賞授賞式」レポート](https://www.4gamer.net/games/999/G999905/20250307031/) 2025/03/07.
 
 [3] [【情報コミュニケーション研究科】大塩浩平さんが共訳した書籍が読売新聞に掲載](https://www.meiji.ac.jp/dai_in/infocom/info/mkmht000000txpfj.html)　2023/12/01.
