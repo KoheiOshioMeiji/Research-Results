@@ -23,7 +23,7 @@
 
 **著書・論文**
 
-[7] 大塩浩平(2025) 法律実務家との協働による対話促進型調停支援チャットボットの設計プロセス 情報コミュニケーション学会第22回全国大会議事録. 発表番号3C-4. 2025年3月1日-2日. 116-119頁. 査読なし.
+[7] 大塩浩平(2025) [法律実務家との協働による対話促進型調停支援チャットボットの設計プロセス](pdfs/CIS2025_3C-4.pdf) 情報コミュニケーション学会第22回全国大会議事録. 発表番号3C-4. 2025年3月1日-2日. 116-119頁. 査読なし.
 
 [6] 大塩浩平(2025) 生成AIは法的コミュニケーションを強化するか:調停離婚向けチャットボット開発に着目して 明治大学大学院情報コミュニケーション研究論集(24) 20-40頁. 査読あり.
 
@@ -71,7 +71,7 @@
 
 [9] 大塩浩平 [リーガル・マインド養成ゲームの制作手法と調査 ―合理的なルール・メイカーを目指すDX時代の新たな法教育の土台づくりに向けて―](http://gakkai.houkyouiku.jp/pdf/JSLE20230903_ver2.1.pdf) 	法と教育学会　会員総会・第14回学術大会 (於: 立教大学) 2023/09/03.
 
-[8] Kohei OSHIO [Law and ALife: An Interdisciplinary Approach to Law](https://rcsl.hypotheses.org/2023-rcsl-meeting-in-lund) 2023 RCSL(Research Committee on Sociology of Law) Meeting in Lund(Lund University, Sweden) 2023/08/31.
+[8] Kohei OSHIO [Law and ALife: An Interdisciplinary Approach to Law](https://rcsl.hypotheses.org/2023-rcsl-meeting-in-lund) 2023 [RCSL(Research Committee on Sociology of Law)](pdfs/RCSL2023Lund.pdf) Meeting in Lund(Lund University, Sweden) 2023/08/31.
 
 [7] Kohei OSHIO [Analysis of Coevolutionary Dynamics of Labor Law and Society in Japan Using a Mathematical Model of Brood Parasitism with Mafia Hypothesis](https://www.lawandsociety.org/wp-content/uploads/2023/08/2023-Program-Book.pdf) Annual Meeting on Law & Society (in Caribe Hilton, Sun Juan, Puerto Rico) 2023/06/01.
 
@@ -81,7 +81,7 @@
 
 [4] 大塩浩平 [法とALife –数理進化理論から見た法の継受現象–](http://jasl.info/wp-content/uploads/2022/04/2022pgm220423v10.pdf) 日本法社会学会 2022年度学術大会 (於: 成蹊大学) 2022/05/21.
 
-[3] Kohei OSHIO Coevolution of Law and Society: Resilient Society and Law as an Operating System 日本法社会学会 2022年度学術大会 (於: 成蹊大学)  若手ワークショップ(2022年法社会学国際会議リスボン大会若手研究者派遣フェローシップ受賞のため.) 2022/05/20.
+[3] Kohei OSHIO Coevolution of Law and Society: Resilient Society and Law as an Operating System 日本法社会学会 2022年度学術大会 (於: 成蹊大学)  若手ワークショップ([2022年法社会学国際会議リスボン大会若手研究者派遣フェローシップ受賞](pdfs/グローバル法社会学会議リスボン大会.pdf)のため.) 2022/05/20.
 
 [2] Kohei OSHIO [Network of Networks Approach to Emergence of Law](https://www.alife-japan.org/events/the-2nd-artificial-life-research-meeting) 人工生命研究会第２回ワークショップ (於: オンライン)  2021/12/06.
 
