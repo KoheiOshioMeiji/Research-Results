@@ -81,7 +81,7 @@
 
 [4] 大塩浩平 [法とALife –数理進化理論から見た法の継受現象–](http://jasl.info/wp-content/uploads/2022/04/2022pgm220423v10.pdf) 日本法社会学会 2022年度学術大会 (於: 成蹊大学) 2022/05/21.
 
-[3] Kohei OSHIO Coevolution of Law and Society: Resilient Society and Law as an Operating System 日本法社会学会 2022年度学術大会 (於: 成蹊大学)  若手ワークショップ([2022年法社会学国際会議リスボン大会若手研究者派遣フェローシップ受賞](pdfs/グローバル法社会学会議リスボン大会.pdf)のため.) 2022/05/20.
+[3] Kohei OSHIO Coevolution of Law and Society: Resilient Society and Law as an Operating System 日本法社会学会 2022年度学術大会 (於: 成蹊大学)  若手ワークショップ([2022年法社会学国際会議リスボン大会若手研究者派遣フェローシップ受賞](pdfs/Lisbon2022.pdf)のため.) 2022/05/20.
 
 [2] Kohei OSHIO [Network of Networks Approach to Emergence of Law](https://www.alife-japan.org/events/the-2nd-artificial-life-research-meeting) 人工生命研究会第２回ワークショップ (於: オンライン)  2021/12/06.
 
