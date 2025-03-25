@@ -113,6 +113,8 @@
 
 **メディア報道**
 
+[7] [【情報コミュニケーション研究科】大塩浩平さんが第18回FOST賞授賞式にて第12回FOST新人賞を受賞](https://meijinow.jp/meidainews/activity-meidainews/114890) 2025/03/24. ※テーマまたは受賞理由／概要が「発表題目」となっていますが, 発表に対しての賞ではありません. 日本語が間違っているので, 正確な内容については[6]を参照してください.
+
 [6] [【情報コミュニケーション研究科】大塩浩平さんが第12回FOST新人賞を受賞](https://www.meiji.ac.jp/dai_in/infocom/info/2024/mkmht000002bjzfd.html) 2025/03/17.
 
 [5] [コーエーテクモINFORMATION 第18回FOST賞授賞式　公益財団法人 科学技術融合振興財団](https://www.koeitecmo.co.jp/news/docs/news_20250313.pdf) 2025/03/12.
