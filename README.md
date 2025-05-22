@@ -129,7 +129,7 @@
 
 **学術貢献活動**
 
-[3] 2022/04〜2025/03  [「人工知能によるオンライン紛争解決(ODR)システムの構築」](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H00543/) JSPS基盤A 研究協力者として参加しています.
+[3] 2022/04〜2025/03  [「人工知能によるオンライン紛争解決(ODR)システムの構築」](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H00543/) JSPS基盤A 研究協力者として参加しました.
 
 [2] 松本美由紀, 橋本龍二, 鈴木雅弘, 村山友理, 和泉潔(2024) 「[人工市場による社会ネットワーク上の情報伝播が株価に与える影響の分析](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2F1GS501/_pdf/-char/en)」(2024年度人工知能学会全国大会（第38回）論文集)にて, 大塩浩平(2022) [行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究](https://meiji.repo.nii.ac.jp/records/10780)が引用されました.
 
