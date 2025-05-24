@@ -69,7 +69,7 @@
 
 [9] 大塩浩平 [リーガル・マインド養成ゲームの制作手法と調査 ―合理的なルール・メイカーを目指すDX時代の新たな法教育の土台づくりに向けて―](http://gakkai.houkyouiku.jp/pdf/JSLE20230903_ver2.1.pdf) 	法と教育学会　会員総会・第14回学術大会 (於: 立教大学) 2023/09/03.
 
-[8] Kohei OSHIO [Law and ALife: An Interdisciplinary Approach to Law](https://rcsl.hypotheses.org/2023-rcsl-meeting-in-lund) 2023 [RCSL(Research Committee on Sociology of Law)](pdfs/RCSL2023Lund.pdf) Meeting in Lund(Lund University, Sweden) 2023/08/31.
+[8] Kohei OSHIO [Law and ALife: An Interdisciplinary Approach to Law](https://portal.research.lu.se/en/activities/rcsl-law-society-and-digital-pasts-presents-and-futures-2) 2023 [RCSL(Research Committee on Sociology of Law)](pdfs/RCSL2023Lund.pdf) Meeting in Lund(Lund University, Sweden) 2023/08/31.
 
 [7] Kohei OSHIO [Analysis of Coevolutionary Dynamics of Labor Law and Society in Japan Using a Mathematical Model of Brood Parasitism with Mafia Hypothesis](https://www.lawandsociety.org/wp-content/uploads/2023/08/2023-Program-Book.pdf) Annual Meeting on Law & Society (in Caribe Hilton, Sun Juan, Puerto Rico) 2023/06/01.
 
