@@ -51,6 +51,8 @@
 
 **学会発表(全て単独/口頭発表)**
 
+[19] Kohei Oshio Towards Human-Centered Legal AI: Designing a Facilitative Mediation Agent Integrating Tacit Knowledge and Multimodal Dialogue Cues [ICAIL2025(The 20th International Conference on Artificial Intelligence and Law)](https://sites.northwestern.edu/icail2025/) ICAIL 2025 Doctoral Consortium, (in Northwestern Pritzker School of Law, Northwestern University, Chicago, Illinois, US) 2025/06/20.
+
 [18] 大塩浩平 [法律実務家との協働による対話促進型調停支援チャットボットの設計プロセス](https://cis.gr.jp/conf/cis-22zenkoku-program.pdf) 情報コミュニケーション学会 第22回全国大会 (於: 昭和女子大学) 2025/03/02.
 
 [17] Kohei OSHIO [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://jurix2024.law.muni.cz/program) JURIX 2024, 37th International Conference on Legal Knowledge and Information Systems​ (in Faculty of Law, Masaryk University, Brno, Czech Republic) 2024/12/13.
