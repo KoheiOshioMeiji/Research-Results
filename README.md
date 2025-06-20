@@ -19,7 +19,7 @@
 
 **著書・論文**
 
-[9] Kohei Oshio(2025) [Towards Human-Centered Legal AI: Designing a Facilitative Mediation Agent Integrating Tacit Knowledge and Multimodal Dialogue Cues](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/c/8101/files/2025/06/ICAIL25_DC_Kohei-Oshio-_final-1.pdf) ICAIL2025(The 20th International Conference on Artificial Intelligence and Law) [ICAIL 2025 Doctoral Consortium](https://sites.northwestern.edu/icail2025/workshops/), Chicago at Northwestern University, June 20. 査読あり.
+[9] Kohei Oshio(2025) [Towards Human-Centered Legal AI: Designing a Facilitative Mediation Agent Integrating Tacit Knowledge and Multimodal Dialogue Cues](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/c/8101/files/2025/06/ICAIL25_DC_Kohei-Oshio-_final-1.pdf) ICAIL2025(The 20th International Conference on Artificial Intelligence and Law) [ICAIL 2025 Doctoral Consortium](https://sites.northwestern.edu/icail2025/workshops/), Chicago at Northwestern University, June 20. 査読あり. 2025年6月時点のCV(履歴書)つき.
 
 [8] 大塩浩平(2025) Meiji Opacのウェブデザイン課題と改善に向けて：ユーザビリティからの分析 明治大学図書館紀要「図書の譜」(29) 23-30頁. 査読なし.
 
