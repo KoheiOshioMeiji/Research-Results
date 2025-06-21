@@ -159,6 +159,8 @@
 
 **受賞学術賞**
 
+[10] ICAIL 2025(The 20th International Conference on Artificial Intelligence and Law) The Best Paper of ICAIL 2025 Doctoral Consortium Award. 2025/06/20.
+
 [9] 公益財団法人　科学技術融合振興財団　[第12回FOST新人賞受賞](https://www.fost.or.jp/award.html). 2025/03/06.
 
 [8] 明治大学大学院研究奨励奨学金A該当. 2023年度・2024年度.
