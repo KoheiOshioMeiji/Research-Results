@@ -117,6 +117,10 @@
 
 **メディア報道**
 
+[9] [【情報コミュニケーション研究科】大塩浩平さんがICAIL2025にてThe Best Paper of ICAIL 2025 Doctoral Consortium Awardを受賞](https://meijinow.jp/meidainews/activity-meidainews/119551) 2025/06/27.
+
+[8] [【情報コミュニケーション研究科】博士後期課程3年大塩浩平さんが国際会議ICAIL2025においてThe Best Paper of ICAIL 2025 Doctoral Consortium Awardを受賞](https://www.meiji.ac.jp/dai_in/infocom/info/2025/qfki0t000004pf99.html) 2025/06/25.
+
 [7] [【情報コミュニケーション研究科】大塩浩平さんが第18回FOST賞授賞式にて第12回FOST新人賞を受賞](https://meijinow.jp/meidainews/activity-meidainews/114890) 2025/03/24. ※テーマまたは受賞理由／概要が「発表題目」となっていますが, 発表に対しての賞ではありません. 日本語が間違っているので, 正確な内容については[6]を参照してください.
 
 [6] [【情報コミュニケーション研究科】大塩浩平さんが第12回FOST新人賞を受賞](https://www.meiji.ac.jp/dai_in/infocom/info/2024/mkmht000002bjzfd.html) 2025/03/17.
