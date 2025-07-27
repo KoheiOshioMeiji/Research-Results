@@ -1,5 +1,5 @@
 # Research-Results
-研究成果をまとめていきます(2025年6月20日現在). 内定もらったので2026年から金融領域のエンジニアとして働きます. 理系学部出身で助かった. 新卒採用はマジ神. 
+研究成果をまとめていきます(2025年6月20日現在). 内定もらったので2026年から金融領域のエンジニアとして働きます. 最高に美味しいパエリアの作り方を探しています.
 
 **学歴**
 
@@ -49,46 +49,6 @@
 <img src="images/pic2.png" alt="Image2" width="350">
 </p>
 
-**学会発表(全て単独/口頭発表)**
-
-[19] Kohei Oshio Towards Human-Centered Legal AI: Designing a Facilitative Mediation Agent Integrating Tacit Knowledge and Multimodal Dialogue Cues [ICAIL2025(The 20th International Conference on Artificial Intelligence and Law)](https://sites.northwestern.edu/icail2025/) ICAIL 2025 Doctoral Consortium, (in Northwestern Pritzker School of Law, Northwestern University, Chicago, Illinois, US) 2025/06/20.
-
-[18] 大塩浩平 [法律実務家との協働による対話促進型調停支援チャットボットの設計プロセス](https://cis.gr.jp/conf/cis-22zenkoku-program.pdf) 情報コミュニケーション学会 第22回全国大会 (於: 昭和女子大学) 2025/03/02.
-
-[17] Kohei OSHIO [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://jurix2024.law.muni.cz/program) JURIX 2024, 37th International Conference on Legal Knowledge and Information Systems​ (in Faculty of Law, Masaryk University, Brno, Czech Republic) 2024/12/13.
-
-[16] 大塩浩平 [スパーシャルAIと法：道路交通に関する法情報を帯びた空間におけるエージェントのシミュレーション](https://sites.google.com/hbesj.org/hbesj2024/programme) 日本人間行動進化学会 第17回大会 (於: 広島修道大学) 2024/12/07.
-
-[15] 大塩浩平 [Legal-Emotional BATNA：AIチャットボットを用いた離婚問題における意思決定支援の試み](http://www.jlea.jp/24_zenkokutaikai_end.html) 法と経済学会　2024年（第22回）全国大会 (於: 明治大学) 2024/11/30.
-
-[14] Kohei OSHIO [Chatbot Development for Legal Counseling Applying Design for Behavior Change and Research on Divorce Mediation Support](https://www.lawandsociety.org/wp-content/uploads/2024/06/2024-Program-Book-6th-version-6.4.pdf) Law and Society Association Annual Meeting（in Hyatt Regency Denver at Colorado Convention Center, Denver, Colorado) 2024/06/07.
-
-[13] 大塩浩平 [日本の労働諸法による社会への介入と罰～数理モデルを用いた法と社会の共進化研究の観点から～](http://jasl.info/wp-content/uploads/2024/04/jasl2024program_0512ver.pdf) 2024年度日本法社会学会学術大会シンポジウム (於: 北海道大学) 2024/05/18.
-
-[12] 大塩浩平 [行動変容デザインを応用した調停人サポート用チャットボット開発と離婚調停支援の研究](http://jasl.info/wp-content/uploads/2024/04/jasl2024program_0512ver.pdf) 2024年度日本法社会学会学術大会 (於: 北海道大学) 2024/05/18.
-
-[11] 大塩浩平 調停人サポート用チャットボット Behavioral Change Mediator の開発および性能評価　四木会(交渉研究の会) (於: 明治大学) 2024/04/01.
-
-[10] 大塩浩平 [リスク認知バイアスに基づくソフトロー・ハードローの進化経済学的分析](http://www.jlea.jp/23_zenkokutaikai_end.html) 法と経済学会　2023年（第21回）全国大会 (於: 京都大学) 2023/10/28.
-
-[9] 大塩浩平 [リーガル・マインド養成ゲームの制作手法と調査 ―合理的なルール・メイカーを目指すDX時代の新たな法教育の土台づくりに向けて―](http://gakkai.houkyouiku.jp/pdf/JSLE20230903_ver2.1.pdf) 	法と教育学会　会員総会・第14回学術大会 (於: 立教大学) 2023/09/03.
-
-[8] Kohei OSHIO [Law and ALife: An Interdisciplinary Approach to Law](https://portal.research.lu.se/en/activities/rcsl-law-society-and-digital-pasts-presents-and-futures-2) 2023 [RCSL(Research Committee on Sociology of Law)](pdfs/RCSL2023Lund.pdf) Meeting in Lund(Lund University, Sweden) 2023/08/31.
-
-[7] Kohei OSHIO [Analysis of Coevolutionary Dynamics of Labor Law and Society in Japan Using a Mathematical Model of Brood Parasitism with Mafia Hypothesis](https://www.lawandsociety.org/wp-content/uploads/2023/08/2023-Program-Book.pdf) Annual Meeting on Law & Society (in Caribe Hilton, Sun Juan, Puerto Rico) 2023/06/01.
-
-[6] 大塩浩平 [Online Dispute Resolution(ODR)における創造的な交渉支援のためのLegal-BATNA推論型AIの研究](http://jasl.info/wp-content/uploads/2023/04/2023JASL_program_v06.pdf) 2023年度 日本法社会学会学術大会 (於: 名古屋大学) 2023/05/13.
-
-[5] Kohei OSHIO [Coevolution of Law and Society -Resilient Society and Law as an Operating System-](https://www.lawandsociety.org/lisbon-2022-homepage/) Global Meeting on Law & Society (in ISCTE University Institute of Lisbon, Lisbon, Portugal) 2022/07/13.
-
-[4] 大塩浩平 [法とALife –数理進化理論から見た法の継受現象–](http://jasl.info/wp-content/uploads/2022/04/2022pgm220423v10.pdf) 日本法社会学会 2022年度学術大会 (於: 成蹊大学) 2022/05/21.
-
-[3] Kohei OSHIO Coevolution of Law and Society: Resilient Society and Law as an Operating System 日本法社会学会 2022年度学術大会 (於: 成蹊大学)  若手ワークショップ([2022年法社会学国際会議リスボン大会若手研究者派遣フェローシップ受賞](pdfs/Lisbon2022.pdf)のため.) 2022/05/20.
-
-[2] Kohei OSHIO [Network of Networks Approach to Emergence of Law](https://www.alife-japan.org/events/the-2nd-artificial-life-research-meeting) 人工生命研究会第２回ワークショップ (於: オンライン)  2021/12/06.
-
-[1] 大塩浩平 [ミーム銘柄の影響に対する法と行動経済学的研究](http://www.jlea.jp/21zenkokutaikai_1_end.html) 法と経済学会2021年度（第19回）全国大会 (於: オンライン)  2021/11/13.
-
 **ディスカッションペーパー(査読なし)**
 
 [3] [法と経済学会2024](pdfs/JLEA_DP_2024_oshio.pdf) 2024/11/30.
@@ -97,41 +57,15 @@
 
 [1] [法と経済学会2021](pdfs/JLEA_DP_2021_oshio.pdf) 2021/11/13.
 
-**MISC**
-
-[3] 2025年高知大学入学試験問題([設問三](pdfs/2025高知大学人文社会科学部小論文.pdf))で，『法教育の教え方と学び方』の69頁～84頁が使われました. 制限時間150分の小論文の課題で, 人文社会科学部の人文社会科学科と社会科学コースの入試で用いられました.
-
-[2] 情報コミュニケーション学学際研究Ⅱにて, 国立情報学研究所情報学プリンシプル研究系 佐藤健教授による外部講師招聘講義「AIの法律分野への応用と人工知能法学の提案」コーディネーター担当. 2023/12/01.
-
-[1] 情報コミュニケーション学学際研究Ⅱにて, [法教育の教え方と学び方―クリティカル・シンキングのすすめ](https://www.koubundou.co.jp/book/b10036613.html) を用いたオンライン書評会開催. 主催者担当. 2023/11/24.
-
-**所属学会**
-
-[4] 2024/11～	[情報コミュニケーション学会](https://cis.gr.jp)
-
-[3] 2024/11～	[情報文化学会](http://jouhou-bunka.jp)
-
-[2] 2021/08～2025/03	法と経済学会
-
-[1] 2021/07～ [日本法社会学会](http://jasl.info/)
-
 **メディア報道**
 
-[9] [【情報コミュニケーション研究科】大塩浩平さんがICAIL2025にてThe Best Paper of ICAIL 2025 Doctoral Consortium Awardを受賞](https://meijinow.jp/meidainews/activity-meidainews/119551) 2025/06/27.
+[5] [【情報コミュニケーション研究科】大塩浩平さんがICAIL2025にてThe Best Paper of ICAIL 2025 Doctoral Consortium Awardを受賞](https://meijinow.jp/meidainews/activity-meidainews/119551) 2025/06/27.
 
-[8] [【情報コミュニケーション研究科】博士後期課程3年大塩浩平さんが国際会議ICAIL2025においてThe Best Paper of ICAIL 2025 Doctoral Consortium Awardを受賞](https://www.meiji.ac.jp/dai_in/infocom/info/2025/qfki0t000004pf99.html) 2025/06/25.
+[4] [【情報コミュニケーション研究科】大塩浩平さんが第18回FOST賞授賞式にて第12回FOST新人賞を受賞](https://meijinow.jp/meidainews/activity-meidainews/114890) 2025/03/24. 
 
-[7] [【情報コミュニケーション研究科】大塩浩平さんが第18回FOST賞授賞式にて第12回FOST新人賞を受賞](https://meijinow.jp/meidainews/activity-meidainews/114890) 2025/03/24. ※テーマまたは受賞理由／概要が「発表題目」となっていますが, 発表に対しての賞ではありません. 日本語が間違っているので, 正確な内容については[6]を参照してください.
+[3] [コーエーテクモINFORMATION 第18回FOST賞授賞式　公益財団法人 科学技術融合振興財団](https://www.koeitecmo.co.jp/news/docs/news_20250313.pdf) 2025/03/12.
 
-[6] [【情報コミュニケーション研究科】大塩浩平さんが第12回FOST新人賞を受賞](https://www.meiji.ac.jp/dai_in/infocom/info/2024/mkmht000002bjzfd.html) 2025/03/17.
-
-[5] [コーエーテクモINFORMATION 第18回FOST賞授賞式　公益財団法人 科学技術融合振興財団](https://www.koeitecmo.co.jp/news/docs/news_20250313.pdf) 2025/03/12.
-
-[4] [ボードゲームの教育的な価値を戦略的に普及させてきた企業・すごろくやが社会貢献賞を受賞。「第18回FOST賞授賞式」レポート](https://www.4gamer.net/games/999/G999905/20250307031/) 2025/03/07.
-
-[3] [【情報コミュニケーション研究科】大塩浩平さんが共訳した書籍が読売新聞に掲載](https://www.meiji.ac.jp/dai_in/infocom/info/mkmht000000txpfj.html)　2023/12/01.
-
-[2] [2023年11月28日_読売新聞（11月26日）に太田勝造教授監訳の書籍が掲載されました！](https://www.meiji.ac.jp/hogaku/mkmht000000tz7un.html) 2023/11/28.
+[2] [ボードゲームの教育的な価値を戦略的に普及させてきた企業・すごろくやが社会貢献賞を受賞。「第18回FOST賞授賞式」レポート](https://www.4gamer.net/games/999/G999905/20250307031/) 2025/03/07.
 
 [1] [［記者が選ぶ］１１月２６日](https://www.yomiuri.co.jp/culture/book/columns/20231127-OYT8T50051/): 読売新聞朝刊の「本よみうり堂」のコーナーで[法教育の教え方と学び方―クリティカル・シンキングのすすめ](https://www.koubundou.co.jp/book/b10036613.html) が紹介されました. 2023/11/26.
 
