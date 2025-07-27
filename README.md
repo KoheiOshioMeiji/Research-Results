@@ -95,25 +95,15 @@
 
 **受賞学術賞**
 
-[10] ICAIL 2025(The 20th International Conference on Artificial Intelligence and Law) The Best Paper of ICAIL 2025 Doctoral Consortium Award. 2025/06/20.
+[5] ICAIL 2025(The 20th International Conference on Artificial Intelligence and Law) The Best Paper of ICAIL 2025 Doctoral Consortium Award. 2025/06/20.
 
-[9] 公益財団法人　科学技術融合振興財団　[第12回FOST新人賞受賞](https://www.fost.or.jp/award.html). 2025/03/06.
+[4] 公益財団法人　科学技術融合振興財団　[第12回FOST新人賞受賞](https://www.fost.or.jp/award.html). 2025/03/06.
 
-[8] 明治大学大学院研究奨励奨学金A該当. 2023年度・2024年度.
+[3] 日本法社会学会国際会議若手研究者フェローシップ受賞. 2023年度・2024年度.
 
-[7] 日本法社会学会国際会議若手研究者フェローシップ受賞. 2023年度・2024年度.
+[2] 明治大学大学院法学研究科 [山田準次郎奨学基金応募論文賞](https://www.meiji.ac.jp/bokin/kakusyu_1600_houken_yamadasyougakukikin.html)(対象論文: 行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究). 2023/02.
 
-[6] 明治大学大学院法学研究科 [山田準次郎奨学基金応募論文賞](https://www.meiji.ac.jp/bokin/kakusyu_1600_houken_yamadasyougakukikin.html)(対象論文: 行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究). 2023/02.
-
-[5] 2022年日本法社会学会国際会議リスボン大会若手研究者派遣フェローシップ受賞.
-
-[4] 明治大学大学院博士前期課程研究科間共通科目 現象数理・ライフサイエンス融合教育系科目群 融合共創プロジェクト 共創賞(グループ3).
-
-[3] 明治大学大学院研究奨励奨学金B（学費の1/2を受給）2021年度・2022年度(2年間継続).
-
-[2] 明治大学総合数理学部主催TOEIC 成績優秀者. 2018年.
-
-[1] 漢字能力検定優秀賞(個人).
+[1] 2022年日本法社会学会国際会議リスボン大会若手研究者派遣フェローシップ受賞.
 
 **資格**
 
