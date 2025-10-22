@@ -1,5 +1,5 @@
 # Research-Results
-研究成果をまとめていきます(2025年7月27日現在). 内定もらったので2026年から金融領域のエンジニアとして働きます. 最高に美味しいパエリアの作り方を探しています.
+研究成果をまとめていきます(2025年10月23日現在). 内定もらったので2026年から金融領域のエンジニアとして働きます. 博士論文を完成させる戦い. ジェノベーゼにはアボカドとタコのトッピングがおすすめです.
 
 **学歴**
 
@@ -17,6 +17,8 @@
 
 **著書・論文**
 
+[10](accepted) Kohei OSHIO(2025) EmoLawConnect: An AI-powered matching engine for professionals supporting family conflict resolution The 38th International Conference on Legal Knowledge and Information Systems, University of Turin, Italy.
+
 [9] Kohei Oshio(2025) [Towards Human-Centered Legal AI: Designing a Facilitative Mediation Agent Integrating Tacit Knowledge and Multimodal Dialogue Cues](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/c/8101/files/2025/06/ICAIL25_DC_Kohei-Oshio-_final-1.pdf) ICAIL2025(The 20th International Conference on Artificial Intelligence and Law) [ICAIL 2025 Doctoral Consortium](https://sites.northwestern.edu/icail2025/workshops/), Chicago at Northwestern University, June 20. 査読あり. 2025年6月時点のCV(履歴書)つき.
 
 [8] 大塩浩平(2025) Meiji Opacのウェブデザイン課題と改善に向けて：ユーザビリティからの分析 明治大学図書館紀要「図書の譜」(29) 23-30頁. 査読なし.
@@ -25,7 +27,7 @@
 
 [6] 大塩浩平(2025) [生成AIは法的コミュニケーションを強化するか:調停離婚向けチャットボット開発に着目して](https://meiji.repo.nii.ac.jp/records/2001433) 明治大学大学院情報コミュニケーション研究論集(24) 20-40頁. 査読あり.
 
-[5] Kohei OSHIO(2024) [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://ebooks.iospress.nl/doi/10.3233/FAIA241264) proceedings of JURIX 2024: The Thirty-seventh Annual Conference, Brno, Czech Republic, 11-13 December 2024, pp.333-337. doi:10.3233/FAIA241264. 査読あり. 長文論文(Long papers)の採択率は23％(21件/90件), 全体(Long papers+Short papers(17件))では42％(38件/90件).
+[5] Kohei OSHIO(2024) [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://ebooks.iospress.nl/doi/10.3233/FAIA241264) proceedings of JURIX 2024: The Thirty-seventh Annual Conference, Brno at Faculty of Law, Masaryk University, Czech Republic, 11-13 December 2024, pp.333-337. doi:10.3233/FAIA241264. 査読あり. 長文論文(Long papers)の採択率は23％(21件/90件), 全体(Long papers+Short papers(17件))では42％(38件/90件).
 
 [4] ローレンス・レペタ著 太田勝造監訳 大塩浩平・堀口愛芽紗訳(2024) [『日本人の良心の囚人』の執筆について](https://www.shinzansha.co.jp/book/b10079972.html) 信山社．
 
