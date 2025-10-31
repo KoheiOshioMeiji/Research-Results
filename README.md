@@ -19,7 +19,7 @@
 
 [11] (accepted) Kohei OSHIO(2025) EmoLawConnect: An AI-powered matching engine for professionals supporting family conflict resolution The 38th International Conference on Legal Knowledge and Information Systems, University of Turin, Italy.
 
-[10] 大塩浩平(2025) [Legal-Emotional BATNA: 離婚の法的側面と感情的複雑さに対応するAIチャットボット開発と日本における社会実装の研究-](https://meiji.repo.nii.ac.jp/records/2001951) 明治大学大学院情報コミュニケーション研究論集(25) 1-21頁. 査読あり.
+[10] 大塩浩平(2025) [Legal-Emotional BATNA: 離婚の法的側面と感情的複雑さに対応するAIチャットボット開発と日本における社会実装の研究](https://meiji.repo.nii.ac.jp/records/2001951) 明治大学大学院情報コミュニケーション研究論集(25) 1-21頁. 査読あり.
 
 [9] Kohei Oshio(2025) [Towards Human-Centered Legal AI: Designing a Facilitative Mediation Agent Integrating Tacit Knowledge and Multimodal Dialogue Cues](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/c/8101/files/2025/06/ICAIL25_DC_Kohei-Oshio-_final-1.pdf) ICAIL2025(The 20th International Conference on Artificial Intelligence and Law) [ICAIL 2025 Doctoral Consortium](https://sites.northwestern.edu/icail2025/workshops/), Chicago at Northwestern University, June 20. 査読あり. 2025年6月時点のCV(履歴書)つき.
 
