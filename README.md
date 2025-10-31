@@ -51,44 +51,6 @@
 <img src="images/pic2.png" alt="Image2" width="350">
 </p>
 
-**ディスカッションペーパー(査読なし)**
-
-[3] [法と経済学会2024](pdfs/JLEA_DP_2024_oshio.pdf) 2024/11/30.
-
-[2] [法と経済学会2023](pdfs/JLEA_DP_2023_oshio.pdf) 2023/10/28.
-
-[1] [法と経済学会2021](pdfs/JLEA_DP_2021_oshio.pdf) 2021/11/13.
-
-**メディア報道**
-
-[5] [【情報コミュニケーション研究科】大塩浩平さんがICAIL2025にてThe Best Paper of ICAIL 2025 Doctoral Consortium Awardを受賞](https://meijinow.jp/meidainews/activity-meidainews/119551) 2025/06/27.
-
-[4] [【情報コミュニケーション研究科】大塩浩平さんが第18回FOST賞授賞式にて第12回FOST新人賞を受賞](https://meijinow.jp/meidainews/activity-meidainews/114890) 2025/03/24. 
-
-[3] [コーエーテクモINFORMATION 第18回FOST賞授賞式　公益財団法人 科学技術融合振興財団](https://www.koeitecmo.co.jp/news/docs/news_20250313.pdf) 2025/03/12.
-
-[2] [ボードゲームの教育的な価値を戦略的に普及させてきた企業・すごろくやが社会貢献賞を受賞。「第18回FOST賞授賞式」レポート](https://www.4gamer.net/games/999/G999905/20250307031/) 2025/03/07.
-
-[1] [［記者が選ぶ］１１月２６日](https://www.yomiuri.co.jp/culture/book/columns/20231127-OYT8T50051/): 読売新聞朝刊の「本よみうり堂」のコーナーで[法教育の教え方と学び方―クリティカル・シンキングのすすめ](https://www.koubundou.co.jp/book/b10036613.html) が紹介されました. 2023/11/26.
-
-**学術貢献活動**
-
-[3] 2022/04〜2025/03  [「人工知能によるオンライン紛争解決(ODR)システムの構築」](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H00543/) JSPS基盤A 研究協力者として参加しました.
-
-[2] 松本美由紀, 橋本龍二, 鈴木雅弘, 村山友理, 和泉潔(2024) 「[人工市場による社会ネットワーク上の情報伝播が株価に与える影響の分析](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2F1GS501/_pdf/-char/en)」(2024年度人工知能学会全国大会（第38回）論文集)にて, 大塩浩平(2022) [行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究](https://meiji.repo.nii.ac.jp/records/10780)が引用されました.
-
-[1] 東京ビッグサイトで開催された「[イノベーション・ジャパン２０１７](https://www.meiji.ac.jp/koho/meidaikouhou/201710/p05_01.html)～大学見本市＆ビジネスマッチング～」において，明治大学の大型共同研究に向けた大学組織単位による組織展示「折紙工学～新たな工法による折紙工学の新展開～」の技術員（折紙工学の説明担当）として参加しました. 2017/08/31-2017/09/01.
-
-**インターン**
-
-[1] 平成29年度防衛省技術系行政職夏期インターンシップ(第2期) 1週間. 2017年. 防衛施設設計演習優秀賞(第2班)受賞.
-
-**短期留学**
-
-[2] UC Davis Extension, English for Science and Technology Program. 2017/02/10-2017/03/10.
-
-[1] IDEA CEBU(Cebu City, Phillippines) 2016年8月(4week).
-
 **研究費獲得**
 
 [3] 2024/09～2025/08  [数理科学的手法を活用した調停向けチャットボットの革新的アプローチ](https://www.mhk.or.jp/dl-data/magazine_no41.pdf) 研究助成番号03-480　公益財団法人 民事紛争処理研究基金.
