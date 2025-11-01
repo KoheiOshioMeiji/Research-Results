@@ -40,6 +40,10 @@ Department of Mathematical Sciences Based on Modeling and Analysis, School of In
 
 Graduated: March 2020
 
+Supervised by Prof. Hirokazu Ninomiya (global analysis / nonlinear PDEs).
+
+Undergraduate research on the Hodgkin–Huxley model, focusing on dynamical-systems and PDE/ODE modeling (phase-plane/bifurcation viewpoints) and numerical simulation for excitable membranes.
+
 **経歴**
 
 [2] 2023年4月-2026年3月 明治大学経営学部[助手](https://www.meiji.ac.jp/dai_in/assistant.html)(Research Associate): 公共経営学特別講義A/B, 基礎専門特別講義B, [経営学特別講義D](https://blog.ssu.co.jp/blog/31504/?utm_source=ssug&utm_medium=email&utm_campaign=31504)の授業補助担当. その他新入生関連業務, 懸賞論文査読, 試験監督業務(大学入学共通テスト, 全学部統一入学試験, 商・経営・情コミの学部別入学試験)等.
