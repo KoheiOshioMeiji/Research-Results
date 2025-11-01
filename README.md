@@ -64,41 +64,13 @@ Apr 2021 – Mar 2023
 
 Provided academic support to undergraduate law students in foundational subjects (Constitutional Law, Criminal Law, etc.); assisted with assignment/report writing and exam preparation; supported in-class activities and general course operations; prepared work/activity reports and contributed to outreach/promotion. During the COVID period, delivered online support via Zoom.
 
-**著書・論文**
+**Publications**
 
-[11] (accepted) Kohei OSHIO(2025) EmoLawConnect: An AI-powered matching engine for professionals supporting family conflict resolution The 38th International Conference on Legal Knowledge and Information Systems, University of Turin, Italy.
+Oshio, K. (2025). EmoLawConnect: An AI-powered matching engine for professionals supporting family conflict resolution. In Proceedings of the 38th International Conference on Legal Knowledge and Information Systems (JURIX 2025), University of Turin, Italy. (Accepted).
 
-[10] 大塩浩平(2025) [Legal-Emotional BATNA: 離婚の法的側面と感情的複雑さに対応するAIチャットボット開発と日本における社会実装の研究](https://meiji.repo.nii.ac.jp/records/2001951) 明治大学大学院情報コミュニケーション研究論集(25) 1-21頁. 査読あり.
+Oshio, K. (2025, June 20). Towards human-centered legal AI: Designing a facilitative mediation agent integrating tacit knowledge and multimodal dialogue cues. ICAIL 2025 Doctoral Consortium, Northwestern University, Chicago, IL, USA.
 
-[9] Kohei Oshio(2025) [Towards Human-Centered Legal AI: Designing a Facilitative Mediation Agent Integrating Tacit Knowledge and Multimodal Dialogue Cues](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/c/8101/files/2025/06/ICAIL25_DC_Kohei-Oshio-_final-1.pdf) ICAIL2025(The 20th International Conference on Artificial Intelligence and Law) [ICAIL 2025 Doctoral Consortium](https://sites.northwestern.edu/icail2025/workshops/), Chicago at Northwestern University, June 20. 査読あり. 2025年6月時点のCV(履歴書)つき.
-
-[8] 大塩浩平(2025) Meiji Opacのウェブデザイン課題と改善に向けて：ユーザビリティからの分析 明治大学図書館紀要「図書の譜」(29) 23-30頁. 査読なし.
-
-[7] 大塩浩平(2025) [法律実務家との協働による対話促進型調停支援チャットボットの設計プロセス](pdfs/CIS2025_3C-4.pdf) 情報コミュニケーション学会第22回全国大会議事録. 発表番号3C-4. 2025年3月1日-2日. 116-119頁. 査読なし.
-
-[6] 大塩浩平(2025) [生成AIは法的コミュニケーションを強化するか:調停離婚向けチャットボット開発に着目して](https://meiji.repo.nii.ac.jp/records/2001433) 明治大学大学院情報コミュニケーション研究論集(24) 20-40頁. 査読あり.
-
-[5] Kohei OSHIO(2024) [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://ebooks.iospress.nl/doi/10.3233/FAIA241264) proceedings of JURIX 2024: The Thirty-seventh Annual Conference, Brno at Faculty of Law, Masaryk University, Czech Republic, 11-13 December 2024, pp.333-337. doi:10.3233/FAIA241264. 査読あり. 長文論文(Long papers)の採択率は23％(21件/90件), 全体(Long papers+Short papers(17件))では42％(38件/90件).
-
-[4] ローレンス・レペタ著 太田勝造監訳 大塩浩平・堀口愛芽紗訳(2024) [『日本人の良心の囚人』の執筆について](https://www.shinzansha.co.jp/book/b10079972.html) 信山社．
-
-<p align="center">
-<img src="images/book2.jpg" alt="Book2" width="300">
-</p>
-
-[3] コリン・シール著 太田勝造監訳 堀口愛芽紗=大塩浩平共訳(2023) [法教育の教え方と学び方―クリティカル・シンキングのすすめ](https://www.koubundou.co.jp/book/b10036613.html) 弘文堂.
-
-<p align="center">
-<img src="images/book1.jpg" alt="Book1" width="300">
-</p>
-
-[2] 大塩浩平(2023) [古代東アジアにおける法制度継受現象の数理進化理論的考察 ー律令制の日本伝来に関してー](https://meiji.repo.nii.ac.jp/records/17408) 明治大学大学院法学研究論集(58) 151-172頁. 査読あり.
-
-[1] 大塩浩平(2022) [行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究](https://meiji.repo.nii.ac.jp/records/10780) 明治大学大学院法学研究論集(57) 79-101頁. 査読あり.
-
-<p align="center">
-<img src="images/pic2.png" alt="Image2" width="350">
-</p>
+Oshio, K. (2024). Legal-Emotional BATNA: AI chatbot addressing divorce legalities and emotional complexities, and research of social implementation in Japan. In JURIX 2024: The Thirty-Seventh Annual Conference (pp. 333–337). Brno, Czech Republic: IOS Press. https://doi.org/10.3233/FAIA241264
 
 **研究費獲得**
 
@@ -201,6 +173,42 @@ Yamada Junjiro Award for Outstanding Thesis, Graduate School of Law, Meiji Unive
 ピーマンは最後に入れて香りと色を生かす
 
 「色・音・香り・粘度・返しやすさ」でケチャップ炒めの完成度を見極める
+
+**著書・論文**
+
+[11] (accepted) Kohei OSHIO(2025) EmoLawConnect: An AI-powered matching engine for professionals supporting family conflict resolution The 38th International Conference on Legal Knowledge and Information Systems, University of Turin, Italy.
+
+[10] 大塩浩平(2025) [Legal-Emotional BATNA: 離婚の法的側面と感情的複雑さに対応するAIチャットボット開発と日本における社会実装の研究](https://meiji.repo.nii.ac.jp/records/2001951) 明治大学大学院情報コミュニケーション研究論集(25) 1-21頁. 査読あり.
+
+[9] Kohei Oshio(2025) [Towards Human-Centered Legal AI: Designing a Facilitative Mediation Agent Integrating Tacit Knowledge and Multimodal Dialogue Cues](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/c/8101/files/2025/06/ICAIL25_DC_Kohei-Oshio-_final-1.pdf) ICAIL2025(The 20th International Conference on Artificial Intelligence and Law) [ICAIL 2025 Doctoral Consortium](https://sites.northwestern.edu/icail2025/workshops/), Chicago at Northwestern University, June 20. 査読あり. 2025年6月時点のCV(履歴書)つき.
+
+[8] 大塩浩平(2025) Meiji Opacのウェブデザイン課題と改善に向けて：ユーザビリティからの分析 明治大学図書館紀要「図書の譜」(29) 23-30頁. 査読なし.
+
+[7] 大塩浩平(2025) [法律実務家との協働による対話促進型調停支援チャットボットの設計プロセス](pdfs/CIS2025_3C-4.pdf) 情報コミュニケーション学会第22回全国大会議事録. 発表番号3C-4. 2025年3月1日-2日. 116-119頁. 査読なし.
+
+[6] 大塩浩平(2025) [生成AIは法的コミュニケーションを強化するか:調停離婚向けチャットボット開発に着目して](https://meiji.repo.nii.ac.jp/records/2001433) 明治大学大学院情報コミュニケーション研究論集(24) 20-40頁. 査読あり.
+
+[5] Kohei OSHIO(2024) [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://ebooks.iospress.nl/doi/10.3233/FAIA241264) proceedings of JURIX 2024: The Thirty-seventh Annual Conference, Brno at Faculty of Law, Masaryk University, Czech Republic, 11-13 December 2024, pp.333-337. doi:10.3233/FAIA241264. 査読あり. 長文論文(Long papers)の採択率は23％(21件/90件), 全体(Long papers+Short papers(17件))では42％(38件/90件).
+
+[4] ローレンス・レペタ著 太田勝造監訳 大塩浩平・堀口愛芽紗訳(2024) [『日本人の良心の囚人』の執筆について](https://www.shinzansha.co.jp/book/b10079972.html) 信山社．
+
+<p align="center">
+<img src="images/book2.jpg" alt="Book2" width="300">
+</p>
+
+[3] コリン・シール著 太田勝造監訳 堀口愛芽紗=大塩浩平共訳(2023) [法教育の教え方と学び方―クリティカル・シンキングのすすめ](https://www.koubundou.co.jp/book/b10036613.html) 弘文堂.
+
+<p align="center">
+<img src="images/book1.jpg" alt="Book1" width="300">
+</p>
+
+[2] 大塩浩平(2023) [古代東アジアにおける法制度継受現象の数理進化理論的考察 ー律令制の日本伝来に関してー](https://meiji.repo.nii.ac.jp/records/17408) 明治大学大学院法学研究論集(58) 151-172頁. 査読あり.
+
+[1] 大塩浩平(2022) [行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究](https://meiji.repo.nii.ac.jp/records/10780) 明治大学大学院法学研究論集(57) 79-101頁. 査読あり.
+
+<p align="center">
+<img src="images/pic2.png" alt="Image2" width="350">
+</p>
 
 
 
