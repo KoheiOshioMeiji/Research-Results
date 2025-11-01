@@ -9,11 +9,15 @@ Ph.D. Candidate in Information and Communication
 
 Graduate School of Information and Communication, Meiji University
 
+April 2023 – Present
+
 [2] 2021年4月-2023年3月 明治大学大学院 [法学研究科 民事法学専攻 法学研究者養成コース](https://www.meiji.ac.jp/dai_in/law/outline/gaiyo.html) 博士前期課程修了 修士(法学): 太田勝造先生(法社会学, 法と経済学, 法と交渉, 法と統計学, AIと法, 民事紛争解決論)の研究室で[数理モデルを用いた法制度の創発・継受・共進化シミュレーション](https://www.meiji.ac.jp/dai_in/law/master/giving_thesis.html)について研究しました. 
 
 Master of Laws (LL.M. equivalent)
 
 Graduate School of Law (Legal Researcher Training Course), Meiji University
+
+April 2021 – March 2023
 
 [1] 2016年4月-2020年3月 明治大学 [総合数理学部 現象数理学科](https://www.meiji.ac.jp/ims/subject/msbma/index.html)卒業 学士(理学): 二宮広和先生(大域解析学/非線形偏微分方程式)の研究室で[Hodgkin-Huxleyモデル](https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/jphysiol.1952.sp004764)について研究しました.
 
@@ -21,11 +25,17 @@ Bachelor of Science in Mathematical Sciences
 
 Department of Mathematical Sciences Based on Modeling and Analysis, School of Interdisciplinary Mathematical Sciences, Meiji University
 
+Graduated: March 2020
+
 **経歴**
 
 [2] 2023年4月-2026年3月 明治大学経営学部[助手](https://www.meiji.ac.jp/dai_in/assistant.html)(Research Associate): 公共経営学特別講義A/B, 基礎専門特別講義B, [経営学特別講義D](https://blog.ssu.co.jp/blog/31504/?utm_source=ssug&utm_medium=email&utm_campaign=31504)の授業補助担当. その他新入生関連業務, 懸賞論文査読, 試験監督業務(大学入学共通テスト, 全学部統一入学試験, 商・経営・情コミの学部別入学試験)等.
 
 Research Associate, School of Business Administration, Meiji University
+
+April 2023 – Present
+
+Assisted with lectures: “Special Lectures on Public Management A/B”, “Fundamental Specialized Lectures B”, “Special Lectures on Business Management D”, Handled responsibilities related to first-year student orientation, Reviewed essay submissions for academic awards, Participated in university entrance exam administration
 
 [1] 2021年4月-2023年3月 明治大学法学部ティーチングアシスタント(TA): 法学部生の[学習サポート](https://www.meiji.ac.jp/hogaku/information/2022/mkmht0000002ksid.html)(憲法・刑法等法律基礎科目の説明業務補助, レポート作成・試験対策等), 授業補助業務, その他一般のサポート業務, 業務報告書の作成, 宣伝業務. ※コロナ期間中はzoomを用いたオンラインでの対応.
 
@@ -81,9 +91,15 @@ Teaching Assistant, School of Law, Meiji University
 
 [4] 公益財団法人　科学技術融合振興財団　[第12回FOST新人賞受賞](https://www.fost.or.jp/award.html). 2025/03/06.
 
+12th FOST Newcomer Award, foundation for the Fusion Of Science and Technology (March 2025)
+
 [3] 日本法社会学会国際会議若手研究者フェローシップ受賞. 2023年度・2024年度.
 
+Fellowship, The Japanese Association of Sociology of Law (2022, 2023, 2024)
+
 [2] 明治大学大学院法学研究科 [山田準次郎奨学基金応募論文賞](https://www.meiji.ac.jp/bokin/kakusyu_1600_houken_yamadasyougakukikin.html)(対象論文: 行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究). 2023/02.
+
+Yamada Junjiro Award for Outstanding Thesis, Graduate School of Law, Meiji University (March 2023)
 
 [1] 2022年日本法社会学会国際会議リスボン大会若手研究者派遣フェローシップ受賞.
 
