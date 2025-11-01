@@ -2,7 +2,7 @@
 研究成果をまとめていきます(2025年10月31日現在). 内定もらったので2026年から金融領域のエンジニアとして働きます. 研究やってません. ジェノベーゼにはアボカドとタコのトッピングがおすすめです. 製麺機とピザ窯が欲しい.
 
 **About me.** I’m a PhD candidate in Information & Communication (degree expected) with an LL.M. background.
-From April 2026 I will join Net Protections—Japan’s leading BNPL company—as an Engineer. The company builds high-quality systems across consumer (B2C) and enterprise (B2B) use cases, e-commerce and in-person payments, and cross-border services.
+From April 2026 I will join Net Protections, Japan’s leading BNPL company, as an Engineer. The company builds high-quality systems across consumer (B2C) and enterprise (B2B) use cases, e-commerce and in-person payments, and cross-border services.
 
 **What I’m aiming for.** In my first years I want to master fundamentals: event-driven architectures for payments, evaluation-first ML/LLM for credit, fraud, and operations, and production practices (SLA/SLOs, monitoring, audit trails). I value clear metrics, reproducible results, and shipping robust software that scales across consumer, enterprise, and international contexts. Longer term, I aim to work internationally in Europe as an applied ML/LLM or payments engineer.
 
