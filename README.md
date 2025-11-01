@@ -24,6 +24,10 @@ Graduate School of Law (Legal Researcher Training Course), Meiji University
 
 April 2021 – March 2023
 
+Supervised by Prof. Katsuzo Ota (sociology of law; law & economics; law & negotiation; law & statistics; AI & law; civil dispute resolution).
+
+Conducted research within the field of basic jurisprudence on mathematical/computational simulations of the emergence, reception, and coevolution of legal institutions, with applications to dispute-resolution settings.
+
 [1] 2016年4月-2020年3月 明治大学 [総合数理学部 現象数理学科](https://www.meiji.ac.jp/ims/subject/msbma/index.html)卒業 学士(理学): 二宮広和先生(大域解析学/非線形偏微分方程式)の研究室で[Hodgkin-Huxleyモデル](https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/jphysiol.1952.sp004764)について研究しました.
 
 Bachelor of Science in Mathematical Sciences
