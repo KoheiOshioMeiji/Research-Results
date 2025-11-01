@@ -6,6 +6,8 @@ From April 2026 I will join Net Protections, Japan’s leading BNPL company, as 
 
 **What I’m aiming for.** In my first years I want to master fundamentals: event-driven architectures for payments, evaluation-first ML/LLM for credit, fraud, and operations, and production practices (SLA/SLOs, monitoring, audit trails). I value clear metrics, reproducible results, and shipping robust software that scales across consumer, enterprise, and international contexts. Longer term, I aim to work internationally in Europe as an applied ML/LLM or payments engineer.
 
+**Where I’d like to work.** Lisbon, Madrid, Milan, Krakow, Tallinn — English-friendly, public-transport cities with great local food.
+
 **学歴**
 
 [3] 2023年4月-現在 明治大学大学院 [情報コミュニケーション研究科 情報コミュニケーション学専攻](https://www.meiji.ac.jp/dai_in/infocom/index.html) 博士後期課程在籍: 石川幹人先生(認知科学, 科学基礎論, 科学技術社会論)の研究室で生成AIを用いたチャットボット開発の研究をしています.
