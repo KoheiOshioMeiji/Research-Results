@@ -28,7 +28,7 @@ Graduate School of Law (Legal Researcher Training Course), Meiji University
 
 April 2021 – March 2023
 
-Supervised by Prof. Katsuzo Ota (sociology of law; law & economics; law & negotiation; law & statistics; AI & law; civil dispute resolution).
+Supervised by Prof. Shozo Ota (sociology of law; law & economics; law & negotiation; law & statistics; AI & law; civil dispute resolution).
 
 Conducted research within the field of basic jurisprudence on mathematical/computational simulations of the emergence, reception, and coevolution of legal institutions, with applications to dispute-resolution settings.
 
