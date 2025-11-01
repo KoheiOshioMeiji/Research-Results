@@ -2,7 +2,7 @@
 研究成果をまとめていきます(2025年10月31日現在). 内定もらったので2026年から金融領域のエンジニアとして働きます. 研究やってません. ジェノベーゼにはアボカドとタコのトッピングがおすすめです. 製麺機とピザ窯が欲しい.
 
 **About me.** I’m a PhD candidate in Information & Communication (degree expected) with an LL.M. background.
-From April 2026 I will join Net Protections, Japan’s leading BNPL company, as an Engineer. The company builds high-quality systems across consumer (B2C) and enterprise (B2B) use cases, e-commerce and in-person payments, and cross-border services.
+From April 2026 I will join Net Protections, Japan’s leading BNPL company, as an Engineer. The company builds high-quality systems across consumer (B2C) and enterprise (B2B) use cases, e-commerce and in-person payments, and cross-border services. I love Italian food and I don't get angry if you break pasta.
 
 **What I’m aiming for.** In my first years I want to master fundamentals: event-driven architectures for payments, evaluation-first ML/LLM for credit, fraud, and operations, and production practices (SLA/SLOs, monitoring, audit trails). I value clear metrics, reproducible results, and shipping robust software that scales across consumer, enterprise, and international contexts. Longer term, I aim to work internationally in Europe as an applied ML/LLM or payments engineer.
 
@@ -57,6 +57,10 @@ Assisted with lectures: “Special Lectures on Public Management A/B”, “Fund
 [1] 2021年4月-2023年3月 明治大学法学部ティーチングアシスタント(TA): 法学部生の[学習サポート](https://www.meiji.ac.jp/hogaku/information/2022/mkmht0000002ksid.html)(憲法・刑法等法律基礎科目の説明業務補助, レポート作成・試験対策等), 授業補助業務, その他一般のサポート業務, 業務報告書の作成, 宣伝業務. ※コロナ期間中はzoomを用いたオンラインでの対応.
 
 Teaching Assistant, School of Law, Meiji University
+
+Apr 2021 – Mar 2023
+
+Provided academic support to undergraduate law students in foundational subjects (Constitutional Law, Criminal Law, etc.); assisted with assignment/report writing and exam preparation; supported in-class activities and general course operations; prepared work/activity reports and contributed to outreach/promotion. During the COVID period, delivered online support via Zoom.
 
 **著書・論文**
 
