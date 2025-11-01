@@ -16,6 +16,10 @@ Graduate School of Information and Communication, Meiji University
 
 April 2023 – Present
 
+Advised by Prof. Makoto Ishikawa (cognitive science; philosophy of science; STS).
+
+I conduct research on AI chatbots for legal and online dispute resolution (ODR), with a focus on family conflict (divorce tech). My work covers: (i) a divorce negotiation aid that estimates BATNA (best alternative to a negotiated agreement) and explains trade-offs; (ii) a mediation support chatbot that performs reframing, summarization, and option generation while combining psychological and behavioral-economics constraints; and (iii) EmoLawConnect, a recommender system that matches users to professionals using a hybrid MF(Matrix Factorization) / NCF model (Neural Collaborative Filtering) with value/emotion profiles and post-filtering for legal and practical constraints.
+
 [2] 2021年4月-2023年3月 明治大学大学院 [法学研究科 民事法学専攻 法学研究者養成コース](https://www.meiji.ac.jp/dai_in/law/outline/gaiyo.html) 博士前期課程修了 修士(法学): 太田勝造先生(法社会学, 法と経済学, 法と交渉, 法と統計学, AIと法, 民事紛争解決論)の研究室で[数理モデルを用いた法制度の創発・継受・共進化シミュレーション](https://www.meiji.ac.jp/dai_in/law/master/giving_thesis.html)について研究しました. 
 
 Master of Laws (LL.M. equivalent)
