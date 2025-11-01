@@ -16,7 +16,7 @@ Graduate School of Information and Communication, Meiji University
 
 April 2023 – Present
 
-Advised by Prof. Makoto Ishikawa (cognitive science; philosophy of science; STS).
+Advised by Prof. Masoto Ishikawa (cognitive science; philosophy of science; STS).
 
 I conduct research on AI chatbots for legal and online dispute resolution (ODR), with a focus on family conflict (divorce tech). My work covers: (i) a divorce negotiation aid that estimates BATNA (Best Alternative To a Negotiated Agreement) and explains trade-offs; (ii) a mediation support chatbot that performs reframing, summarization, and option generation while combining psychological and behavioral-economics constraints; and (iii) EmoLawConnect, a recommender system that matches users to professionals using a hybrid MF(Matrix Factorization) / NCF model (Neural Collaborative Filtering) with value/emotion profiles and post-filtering for legal and practical constraints.
 
