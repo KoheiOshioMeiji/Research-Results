@@ -6,6 +6,8 @@ From April 2026 I will join Net Protections, Japan’s leading BNPL(Buy Now Pay 
 
 **What I’m aiming for.** In my first years I want to master fundamentals: event-driven architectures for payments, evaluation-first ML/LLM for credit, fraud, and operations, and production practices (SLA/SLOs, monitoring, audit trails). I value clear metrics, reproducible results, and shipping robust software that scales across consumer, enterprise, and international contexts. 
 
+**Long-term life plan.** I’m committed to my full-time engineering career. In parallel, I will continue part-time university study (sensory & flavor science) and a weekend research track with three goals: (1) experience-driven AI for “deliciousness” (adaptive tastings, preference learning, contextual bandits), (2) mechanistic models of “deliciousness” linking sensory descriptors and GC–MS/texture features to liking, and (3) evolutionary analyses of taste using cross-cultural datasets and hierarchical Bayesian modeling. This is a long-term life plan, not a near-term job change.
+
 **学歴**
 
 [3] 2023年4月-現在 明治大学大学院 [情報コミュニケーション研究科 情報コミュニケーション学専攻](https://www.meiji.ac.jp/dai_in/infocom/index.html) 博士後期課程在籍
