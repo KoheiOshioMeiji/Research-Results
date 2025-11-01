@@ -9,7 +9,7 @@ From April 2026 I will join Net Protections, Japan’s leading BNPL(Buy Now Pay 
 
 **Long-term life plan.** I’m committed to my full-time engineering career(Model Risk/Validation, Risk/Fraud Strategy, LLM Ops, and Solutions Architect). In parallel, I will continue part-time university study (sensory & flavor science) and a weekend research track with three goals: (1) experience-driven AI for “deliciousness” (adaptive tastings, preference learning, contextual bandits), (2) mechanistic models of “deliciousness” linking sensory descriptors and GC–MS/texture features to liking, and (3) evolutionary analyses of taste using cross-cultural datasets and hierarchical Bayesian modeling. This is a long-term life plan, not a near-term job change. I won't be a researcher.
 
-**学歴**
+**Education**
 
 [3] 2023年4月-現在 明治大学大学院 [情報コミュニケーション研究科 情報コミュニケーション学専攻](https://www.meiji.ac.jp/dai_in/infocom/index.html) 博士後期課程在籍
 
@@ -47,7 +47,7 @@ Supervised by Prof. Hirokazu Ninomiya (global analysis / nonlinear PDEs).
 
 Undergraduate research on the Hodgkin–Huxley model, focusing on dynamical-systems and PDE/ODE modeling (phase-plane/bifurcation viewpoints) and numerical simulation for excitable membranes.
 
-**経歴**
+**Work Experience**
 
 [2] 2023年4月-2026年3月 明治大学経営学部[助手](https://www.meiji.ac.jp/dai_in/assistant.html)(Research Associate): 公共経営学特別講義A/B, 基礎専門特別講義B, 経営学特別講義Dの授業補助担当. その他新入生関連業務, 懸賞論文査読, 試験監督業務(大学入学共通テスト, 全学部統一入学試験, 商・経営・情コミの学部別入学試験)等.
 
