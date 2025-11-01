@@ -72,31 +72,21 @@ Oshio, K. (2025). Towards human-centered legal AI: Designing a facilitative medi
 
 Oshio, K. (2024). Legal-Emotional BATNA: AI chatbot addressing divorce legalities and emotional complexities, and research of social implementation in Japan. In Proceedings of the 37th International Conference on Legal Knowledge and Information Systems (JURIX 2024), Brno, Czech Republic. https://doi.org/10.3233/FAIA241264
 
-**研究費獲得**
+**Research Funding (Competitive Grants)**
 
-[3] 2024/09～2025/08  [数理科学的手法を活用した調停向けチャットボットの革新的アプローチ](https://www.mhk.or.jp/dl-data/magazine_no41.pdf) 研究助成番号03-480　公益財団法人 民事紛争処理研究基金.
+2024/09–2025/08 — An innovative approach to mediation chatbots using mathematical-science methods. Grant No. 03-480, The Foundation for Research on Civil Dispute Resolution. Amount: JPY ¥600,000. Role: PI.
 
-[2]	2023/03～2024/02  [リーガル・マインド養成ゲームの制作手法と調査 ー合理的なルール・メイカーを目指すDX時代の新たな法教育の土台づくりに向けてー](https://www.fost.or.jp/images/pdf/subsidies/FOST-2022_hojo-kekka.pdf) 公益財団法人 [科学技術融合振興財団](pdfs/FOST-2022.pdf).
+2023/03–2024/02 — Design and study of a “Legal-Mind Training Game” as a foundation for legal education in the DX era. foundation for the Fusion Of Science and Technology (FOST). Amount: JPY ¥255,000. Role: PI.
 
-[1]	2022/08～  [スパイキングニューラルネットワーク(SNN)を用いたODRにおける創造的な交渉支援研究](https://www.mhk.or.jp/dl-data/magazine_no38.pdf) 研究助成番号02-461　公益財団法人 [民事紛争処理研究基金](pdfs/minpun-2022.pdf).
+2022/08–2025/08 — Creative negotiation support for ODR using spiking neural networks (SNN). Grant No. 02-461, The Foundation for Research on Civil Dispute Resolution. Amount: JPY ¥400,000. Role: PI.
 
-**受賞学術賞**
+**Awards & Fellowships**
 
-[5] ICAIL 2025(The 20th International Conference on Artificial Intelligence and Law) The Best Paper of ICAIL 2025 Doctoral Consortium Award. 2025/06/20.
+2025/06/20 —  The Best Paper of ICAIL 2025 Doctoral Consortium Award – ICAIL 2025, The 20th International Conference on Artificial Intelligence and Law, Northwestern University, Chicago, USA.
 
-[4] 公益財団法人　科学技術融合振興財団　[第12回FOST新人賞受賞](https://www.fost.or.jp/award.html). 2025/03/06.
+2025/03/06 — 12th FOST Newcomer Award, 12th FOST Newcomer Award, foundation for the Fusion Of Science and Technology (March 2025). Prize: JPY ¥200,000.
 
-12th FOST Newcomer Award, foundation for the Fusion Of Science and Technology (March 2025)
-
-[3] 日本法社会学会国際会議若手研究者フェローシップ受賞. 2023年度・2024年度.
-
-Fellowship, The Japanese Association of Sociology of Law (2022, 2023, 2024)
-
-[2] 明治大学大学院法学研究科 [山田準次郎奨学基金応募論文賞](https://www.meiji.ac.jp/bokin/kakusyu_1600_houken_yamadasyougakukikin.html)(対象論文: 行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究). 2023/02.
-
-Yamada Junjiro Award for Outstanding Thesis, Graduate School of Law, Meiji University (March 2023)
-
-[1] 2022年日本法社会学会国際会議リスボン大会若手研究者派遣フェローシップ受賞.
+2022, 2023, 2024 — Young Researcher Fellowship, The Japanese Association of Sociology of Law(JASL). Stipend: JPY ¥150,000 per award.
 
 **資格**
 
@@ -209,6 +199,26 @@ Yamada Junjiro Award for Outstanding Thesis, Graduate School of Law, Meiji Unive
 <p align="center">
 <img src="images/pic2.png" alt="Image2" width="350">
 </p>
+
+**研究費獲得**
+
+[3] 2024/09～2025/08  [数理科学的手法を活用した調停向けチャットボットの革新的アプローチ](https://www.mhk.or.jp/dl-data/magazine_no41.pdf) 研究助成番号03-480　公益財団法人 民事紛争処理研究基金.
+
+[2]	2023/03～2024/02  [リーガル・マインド養成ゲームの制作手法と調査 ー合理的なルール・メイカーを目指すDX時代の新たな法教育の土台づくりに向けてー](https://www.fost.or.jp/images/pdf/subsidies/FOST-2022_hojo-kekka.pdf) 公益財団法人 [科学技術融合振興財団](pdfs/FOST-2022.pdf).
+
+[1]	2022/08～  [スパイキングニューラルネットワーク(SNN)を用いたODRにおける創造的な交渉支援研究](https://www.mhk.or.jp/dl-data/magazine_no38.pdf) 研究助成番号02-461　公益財団法人 [民事紛争処理研究基金](pdfs/minpun-2022.pdf).
+
+**受賞学術賞**
+
+[5] ICAIL 2025(The 20th International Conference on Artificial Intelligence and Law) The Best Paper of ICAIL 2025 Doctoral Consortium Award. 2025/06/20.
+
+[4] 公益財団法人　科学技術融合振興財団　[第12回FOST新人賞受賞](https://www.fost.or.jp/award.html). 2025/03/06.
+
+[3] 日本法社会学会国際会議若手研究者フェローシップ受賞. 2023年度・2024年度.
+
+[2] 明治大学大学院法学研究科 [山田準次郎奨学基金応募論文賞](https://www.meiji.ac.jp/bokin/kakusyu_1600_houken_yamadasyougakukikin.html)(対象論文: 行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究). 2023/02.
+
+[1] 2022年日本法社会学会国際会議リスボン大会若手研究者派遣フェローシップ受賞.
 
 
 
