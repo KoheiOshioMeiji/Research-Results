@@ -2,13 +2,13 @@
 研究成果をまとめていきます(2025年10月31日現在). 内定もらったので2026年から金融領域のエンジニアとして働きます. 研究やってません. ジェノベーゼにはアボカドとタコのトッピングがおすすめです. 製麺機とピザ窯が欲しい.
 
 **About me.** I’m a PhD candidate in Information & Communication (degree expected) with an LL.M. background.
-From April 2026 I will join Net Protections, Japan’s leading BNPL company, as an Engineer. The company builds high-quality systems across consumer (B2C) and enterprise (B2B) use cases, e-commerce and in-person payments, and cross-border services. I love Italian food and I don't get angry if you break pasta.
+From April 2026 I will join Net Protections, Japan’s leading BNPL(Buy Now Pay Later) company, as an Engineer. The company builds high-quality systems across consumer (B2C) and enterprise (B2B) use cases, e-commerce and in-person payments, and cross-border services. I love Italian food and I don't get angry if you break pasta.
 
 **What I’m aiming for.** In my first years I want to master fundamentals: event-driven architectures for payments, evaluation-first ML/LLM for credit, fraud, and operations, and production practices (SLA/SLOs, monitoring, audit trails). I value clear metrics, reproducible results, and shipping robust software that scales across consumer, enterprise, and international contexts. 
 
 **学歴**
 
-[3] 2023年4月-現在 明治大学大学院 [情報コミュニケーション研究科 情報コミュニケーション学専攻](https://www.meiji.ac.jp/dai_in/infocom/index.html) 博士後期課程在籍: 石川幹人先生(認知科学, 科学基礎論, 科学技術社会論)の研究室で生成AIを用いたチャットボット開発の研究をしています.
+[3] 2023年4月-現在 明治大学大学院 [情報コミュニケーション研究科 情報コミュニケーション学専攻](https://www.meiji.ac.jp/dai_in/infocom/index.html) 博士後期課程在籍
 
 Ph.D. Candidate in Information and Communication
 
@@ -20,7 +20,7 @@ Advised by Prof. Makoto Ishikawa (cognitive science; philosophy of science; STS)
 
 I conduct research on AI chatbots for legal and online dispute resolution (ODR), with a focus on family conflict (divorce tech). My work covers: (i) a divorce negotiation aid that estimates BATNA (Best Alternative To a Negotiated Agreement) and explains trade-offs; (ii) a mediation support chatbot that performs reframing, summarization, and option generation while combining psychological and behavioral-economics constraints; and (iii) EmoLawConnect, a recommender system that matches users to professionals using a hybrid MF(Matrix Factorization) / NCF model (Neural Collaborative Filtering) with value/emotion profiles and post-filtering for legal and practical constraints.
 
-[2] 2021年4月-2023年3月 明治大学大学院 [法学研究科 民事法学専攻 法学研究者養成コース](https://www.meiji.ac.jp/dai_in/law/outline/gaiyo.html) 博士前期課程修了 修士(法学): 太田勝造先生(法社会学, 法と経済学, 法と交渉, 法と統計学, AIと法, 民事紛争解決論)の研究室で[数理モデルを用いた法制度の創発・継受・共進化シミュレーション](https://www.meiji.ac.jp/dai_in/law/master/giving_thesis.html)について研究しました. 
+[2] 2021年4月-2023年3月 明治大学大学院 [法学研究科 民事法学専攻 法学研究者養成コース](https://www.meiji.ac.jp/dai_in/law/outline/gaiyo.html) 博士前期課程修了 修士(法学)
 
 Master of Laws (LL.M. equivalent)
 
@@ -32,7 +32,7 @@ Supervised by Prof. Katsuzo Ota (sociology of law; law & economics; law & negoti
 
 Conducted research within the field of basic jurisprudence on mathematical/computational simulations of the emergence, reception, and coevolution of legal institutions, with applications to dispute-resolution settings.
 
-[1] 2016年4月-2020年3月 明治大学 [総合数理学部 現象数理学科](https://www.meiji.ac.jp/ims/subject/msbma/index.html)卒業 学士(理学): 二宮広和先生(大域解析学/非線形偏微分方程式)の研究室で[Hodgkin-Huxleyモデル](https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/jphysiol.1952.sp004764)について研究しました.
+[1] 2016年4月-2020年3月 明治大学 [総合数理学部 現象数理学科](https://www.meiji.ac.jp/ims/subject/msbma/index.html)卒業 学士(理学)
 
 Bachelor of Science in Mathematical Sciences
 
