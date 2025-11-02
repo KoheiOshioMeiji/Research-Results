@@ -85,7 +85,7 @@ Oshio, K. (2024). Legal-Emotional BATNA: AI chatbot addressing divorce legalitie
 
 2025/06/20 —  The Best Paper of ICAIL 2025 Doctoral Consortium Award – ICAIL 2025, The 20th International Conference on Artificial Intelligence and Law, Northwestern University, Chicago, USA.
 
-2025/03/06 — 12th FOST Newcomer Award, 12th FOST Newcomer Award, foundation for the Fusion Of Science and Technology (March 2025). Prize: JPY ¥200,000.
+2025/03/06 — 12th FOST Newcomer Award, foundation for the Fusion Of Science and Technology. Prize: JPY ¥200,000.
 
 2022, 2023, 2024 — Young Researcher Fellowship, The Japanese Association of Sociology of Law(JASL). Stipend: JPY ¥150,000 per award.
 
