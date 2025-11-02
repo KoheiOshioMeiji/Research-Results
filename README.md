@@ -87,7 +87,7 @@ Oshio, K. (2024). Legal-Emotional BATNA: AI chatbot addressing divorce legalitie
 
 2025/03/06 — 12th FOST Newcomer Award, foundation for the Fusion Of Science and Technology. Prize: JPY ¥200,000.
 
-2022, 2023, 2024 — Young Researcher Fellowship, The Japanese Association of Sociology of Law(JASL). Stipend: JPY ¥150,000 per award.
+2022, 2023, 2024 — Young Researcher Fellowship, The Japanese Association of Sociology of Law(JASL). Stipend: JPY ¥150,000 per award (total JPY ¥450,000).
 
 **資格**
 
