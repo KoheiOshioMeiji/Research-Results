@@ -55,7 +55,7 @@ Research Associate, School of Business Administration, Meiji University
 
 April 2023 – Present
 
-Assisted with lectures: “Special Lectures on Public Management A/B”, “Fundamental Specialized Lectures B”, “Special Lectures on Business Management D”, Handled responsibilities related to first-year student orientation, Reviewed essay submissions for academic awards, Participated in university entrance exam administration (The Common Test for University Admissions, 
+Assisted with lectures: “Special Lectures on Public Management A/B”, “Fundamental Specialized Lectures B”, “Special Lectures on Business Management D”, Handled responsibilities related to first-year student orientation, Reviewed essay submissions for academic awards, Participated in university entrance exam administration (The Common Test for University Admissions, All-Faculties (University-wide) Entrance Examination, Faculty-specific entrance examinations (School of Commerce / School of Business Administration / School of Information and Communication)
 
 [1] 2021年4月-2023年3月 明治大学法学部ティーチングアシスタント(TA)
 
